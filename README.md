@@ -1,5 +1,5 @@
 ### Hi there, I'm John Wayodi 👋
-A Softaware Engineer with 4+ yrs experience.
+A Software Engineer with 4+ yrs experience.
 
 <image xlink:href="my.svg" src="https://github-readme-stats.vercel.app/api?username=johnwayodi&repo=covid-19-stats&theme=vue-dark&hide=stars,issues" width="70%"/>
 
