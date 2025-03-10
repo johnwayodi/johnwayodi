@@ -53,17 +53,3 @@
 - 🚀 [**Artista**](https://artist-app-johnwayodi.vercel.app/) - Sample songs/albums from various Artists using Deezer API.
 
 ---
-
-### 📫 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/john-wayodi/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/john_async">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐ **Feel free to explore my repositories and collaborate!** 🚀
