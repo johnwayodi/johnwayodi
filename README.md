@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm John Wayodi 👋</h1>
 
 <p align="center">
-  <em> Software Engineer | Full-Stack Developer | Tech Enthusiast </em>
+  <em> Software Engineer | Full-Stack Developer </em>
 </p>
 
 ---
