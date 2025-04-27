@@ -43,7 +43,7 @@
 <p align="left">
   <!-- Mobile & Backend -->
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white"/> -->
 </p>
 
 ---
