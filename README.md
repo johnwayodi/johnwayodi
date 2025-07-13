@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me  
-- 👨‍💻 I’m a Software Engineer passionate about building innovative applications.
+- 👨‍💻 I like to build things.
 
 ---
 
